@@ -20,7 +20,3 @@ PROGRESS:
 * Original: Kikutada
 * Remaster: SmartPixel Studios
 
-# License
-
-"GameLevelTest" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
