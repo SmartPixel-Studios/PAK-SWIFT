@@ -1,29 +1,24 @@
-# Game Pacman
+# PAK-SWIFT
 
-I created Pac-Man as a programming study for Swift.
-I'm using the SpriteKit framework.
-The source code is about 5000 lines, so please refer to it.
+This is the NEW PAC-MAN.
 
-You can touch, swipe, and operate Pac-Man with the accelerometer.
-There are two types of mazes.
-When debug mode is turned on, the target position and spurt status of the ghost are displayed.
+The hungry dot-muncher is back in a brand new custom remaster for iOS!
 
-These can be selected on the configuration screen.
+NOW IN DEVELOPMENT
 
-<img src="https://github.com/Kikutada/0008_GamePacman/blob/main/0008_GamePacman/images/IMG_001.PNG?raw=true" width=480>
-<img src="https://github.com/Kikutada/0008_GamePacman/blob/main/0008_GamePacman/images/IMG_002.PNG?raw=true" width=480>
-<img src="https://github.com/Kikutada/0008_GamePacman/blob/main/0008_GamePacman/images/IMG_003.PNG?raw=true" width=480>
-<img src="https://github.com/Kikutada/0008_GamePacman/blob/main/0008_GamePacman/images/IMG_004.PNG?raw=true" width=480>
+PROGRESS:
+1%
 
 # Enviornments
 
-* Swift 5.0
-* Xcode 12.0
-* iOS 14
+* Swift 5.10
+* Xcode 15.0
+* iOS 17
 
 # Author
 
-* Kikutada
+* Original: Kikutada
+* Remaster: SmartPixel Studios
 
 # License
 
